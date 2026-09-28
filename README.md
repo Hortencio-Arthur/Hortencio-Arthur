@@ -1,4 +1,4 @@
-# Olá, eu sou Arthur 👋
+# Olá, eu sou Arthur
 
 Estudante de Ciência da Computação, curioso por natureza — foi essa curiosidade 
 sobre como máquinas aprendem que me trouxe até o Python e o interesse por 
