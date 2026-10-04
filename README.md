@@ -20,7 +20,7 @@ Git & GitHub · Fundamentos de IA/Machine Learning
 
 ## Objetivo atual
 
-- Sobreviver ao semestre da faculdade 🙃
+- Sobreviver ao semestres da faculdade 🙃
 - Finalizar minha base em Python 🐍
 
 ## O que me move
