@@ -31,6 +31,7 @@ sistemas que uso — e não só o resultado.
 Estou sempre aberto a trocar conhecimento e conversar sobre projetos, ideias 
 ou oportunidades de aprendizado.
 
-## Contato
+## Contatos
 
 LinkedIn: www.linkedin.com/in/arthurhortencio
+Github: https://github.com/Hortencio-Arthur
