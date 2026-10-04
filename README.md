@@ -1,8 +1,8 @@
-# Olá, eu sou Arthur Hortencio ou só Hortencio 😁
+# Olá! Eu sou Arthur Hortencio ou só Hortencio 🖖🏽
 
 Estudante de Ciência da Computação, curioso por natureza — foi essa curiosidade 
 sobre como máquinas aprendem que me trouxe até o Python e o interesse por 
-Inteligência Artificial.
+Inteligência Artificial e Machine Learning.
 
 ## Sobre mim
 
